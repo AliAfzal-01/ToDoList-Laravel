@@ -1,0 +1,16 @@
+# Backend
+/task-api/vendor
+/task-api/.env
+/task-api/storage/*.key
+/task-api/storage/logs/*.log
+/task-api/database/*.sqlite
+/task-api/database/*.sqlite-journal
+
+# Frontend
+/task-frontend/node_modules
+/task-frontend/.nuxt
+/task-frontend/.output
+/task-frontend/.env
+
+# System
+.DS_Store
